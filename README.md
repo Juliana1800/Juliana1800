@@ -5,5 +5,6 @@ Conheça o projeto dos cartões de estatísticas do GitHub (acima):
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana1800&show_icons=true&theme=gruvbox_light) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana1800&layout=compact&langs-count=168&theme=transparent">
 
-<i class="devicon-apple-original"></i>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
           
+                    
